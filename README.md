@@ -30,7 +30,7 @@ To run the analysis locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AyazRao/Exploring-NYC-Public-School-Test-Result-Scores.git
-   cd sat-scores-analysis
+   cd Exploring-NYC-Public-School-Test-Result-Scores
    
 ## Project Structure
 
